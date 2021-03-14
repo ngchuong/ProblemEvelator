@@ -1,0 +1,26 @@
+{
+  "name": "problemevelator",
+  "version": "1.0.0",
+  "description": "simulate handler evelator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ngchuong/ProblemEvelator.git"
+  },
+  "author": "chuongng",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ngchuong/ProblemEvelator/issues"
+  },
+  "homepage": "https://github.com/ngchuong/ProblemEvelator#readme",
+  "dependencies": {
+    "react": "^17.0.1",
+    "react-redux": "^7.2.2",
+    "redux-saga": "^1.1.3",
+    "sass": "^1.32.8",
+    "sass-loader": "^11.0.1"
+  }
+}
